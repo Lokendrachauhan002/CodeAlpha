@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "question": "How do I apply for admission?",
+    "answer": "Apply through the college admission portal, complete the form, upload required documents, and pay the application fee before the deadline."
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "question": "What are the eligibility criteria for admission?",
+    "answer": "Eligibility depends on the programme; review the current prospectus and submit qualifying examination marks and required entrance scores."
+  },
+  {
+    "id": 3,
+    "category": "Admissions",
+    "question": "Which documents are required for admission?",
+    "answer": "Keep your marksheets, transfer certificate, ID proof, photographs, entrance scorecard, and category certificate if applicable."
+  },
+  {
+    "id": 4,
+    "category": "Admissions",
+    "question": "Can I change my course after admission?",
+    "answer": "Course changes are considered only during the notified window and depend on eligibility, seats, and academic approval."
+  },
+  {
+    "id": 5,
+    "category": "Admissions",
+    "question": "What is the admission application deadline?",
+    "answer": "Application deadlines are published on the official admissions noticeboard and portal each admission cycle."
+  },
+  {
+    "id": 6,
+    "category": "Admissions",
+    "question": "Is there an entrance examination for admission?",
+    "answer": "Some programmes use entrance examinations while others use merit; please check the programme-specific admission notice."
+  },
+  {
+    "id": 7,
+    "category": "Admissions",
+    "question": "How can I check my admission status?",
+    "answer": "Sign in to the admissions portal with your application number to view your application and admission status."
+  },
+  {
+    "id": 8,
+    "category": "Admissions",
+    "question": "Can international students apply?",
+    "answer": "Yes. International applicants should use the international admissions process and submit passport and visa-related documents."
+  },
+  {
+    "id": 9,
+    "category": "Admissions",
+    "question": "Is direct admission available?",
+    "answer": "Direct admission, where permitted, is subject to institutional policy, merit criteria, and seat availability."
+  },
+  {
+    "id": 10,
+    "category": "Admissions",
+    "question": "How do I correct an error in my application?",
+    "answer": "Contact the admissions office promptly with your application number; corrections are allowed only before verification closes."
+  },
+  {
+    "id": 11,
+    "category": "Admissions",
+    "question": "What is the counselling process?",
+    "answer": "Eligible applicants select preferences, verify documents, receive seat allotment, and confirm their seat by the specified date."
+  },
+  {
+    "id": 12,
+    "category": "Admissions",
+    "question": "Can I defer my admission?",
+    "answer": "Deferral requests are reviewed case by case. Contact admissions before the academic session begins."
+  },
+  {
+    "id": 13,
+    "category": "Fees",
+    "question": "How can I pay my college fees?",
+    "answer": "Pay securely through the student portal using the available online payment methods or follow the accounts office instructions."
+  },
+  {
+    "id": 14,
+    "category": "Fees",
+    "question": "What is the fee payment deadline?",
+    "answer": "The fee due date is shown in your student portal and official fee circular. Pay before it to avoid late charges."
+  },
+  {
+    "id": 15,
+    "category": "Fees",
+    "question": "Are instalments available for fee payment?",
+    "answer": "Instalments may be available under the college fee policy; submit a request to the accounts office before the deadline."
+  },
+  {
+    "id": 16,
+    "category": "Fees",
+    "question": "Is there a late fee for delayed payment?",
+    "answer": "Yes, a late fee may apply after the notified due date according to the current fee policy."
+  },
+  {
+    "id": 17,
+    "category": "Fees",
+    "question": "How can I download my fee receipt?",
+    "answer": "Log in to the student portal, open Fees or Payments, and download the receipt for the completed transaction."
+  },
+  {
+    "id": 18,
+    "category": "Fees",
+    "question": "Can I get a fee refund?",
+    "answer": "Refunds follow the approved refund policy. Submit a written request with payment proof to the accounts office."
+  },
+  {
+    "id": 19,
+    "category": "Fees",
+    "question": "What does the tuition fee include?",
+    "answer": "Tuition generally covers academic instruction; charges for transport, hostel, examinations, or special activities may be separate."
+  },
+  {
+    "id": 20,
+    "category": "Fees",
+    "question": "How do I check my outstanding fee balance?",
+    "answer": "Your outstanding balance appears on the Fees dashboard in the student portal."
+  },
+  {
+    "id": 21,
+    "category": "Fees",
+    "question": "Can my parent pay fees on my behalf?",
+    "answer": "Yes. A parent may pay using your student ID or registered fee payment link."
+  },
+  {
+    "id": 22,
+    "category": "Fees",
+    "question": "What should I do if payment fails?",
+    "answer": "Do not pay again immediately. Check transaction status, retain the reference number, and contact accounts if the amount was debited."
+  },
+  {
+    "id": 23,
+    "category": "Fees",
+    "question": "Are examination fees separate?",
+    "answer": "Examination fees are usually collected separately when the examination form is opened."
+  },
+  {
+    "id": 24,
+    "category": "Fees",
+    "question": "Where is the accounts office located?",
+    "answer": "The accounts office location and working hours are listed on the campus directory and student portal."
+  },
+  {
+    "id": 25,
+    "category": "Attendance",
+    "question": "What is the minimum attendance requirement?",
+    "answer": "Students should maintain the minimum attendance percentage specified in the academic regulations for each course."
+  },
+  {
+    "id": 26,
+    "category": "Attendance",
+    "question": "How can I check my attendance?",
+    "answer": "Open the Attendance section of the student portal to see subject-wise attendance and recent updates."
+  },
+  {
+    "id": 27,
+    "category": "Attendance",
+    "question": "What happens if my attendance is short?",
+    "answer": "You may receive a warning and can be restricted from examinations as per academic regulations."
+  },
+  {
+    "id": 28,
+    "category": "Attendance",
+    "question": "Can medical leave be counted for attendance?",
+    "answer": "Submit valid medical documents to your department promptly; consideration follows the approved attendance policy."
+  },
+  {
+    "id": 29,
+    "category": "Attendance",
+    "question": "How often is attendance updated?",
+    "answer": "Faculty normally update attendance after classes, and the portal refreshes according to departmental schedules."
+  },
+  {
+    "id": 30,
+    "category": "Attendance",
+    "question": "Can I request correction of attendance?",
+    "answer": "Yes. Contact the course faculty with the date and relevant evidence as soon as you identify an error."
+  },
+  {
+    "id": 31,
+    "category": "Attendance",
+    "question": "Does attendance affect exam eligibility?",
+    "answer": "Yes. Minimum attendance is commonly required to be eligible to appear in end-semester examinations."
+  },
+  {
+    "id": 32,
+    "category": "Attendance",
+    "question": "Is attendance compulsory for labs?",
+    "answer": "Yes. Practical and laboratory attendance is compulsory and is tracked separately in many programmes."
+  },
+  {
+    "id": 33,
+    "category": "Attendance",
+    "question": "How do I get attendance condonation?",
+    "answer": "Apply through your department with supporting documents during the official condonation period, if eligible."
+  },
+  {
+    "id": 34,
+    "category": "Attendance",
+    "question": "Are extracurricular activities counted as attendance?",
+    "answer": "Approved institutional activities may be considered when officially authorized; obtain confirmation from your department."
+  },
+  {
+    "id": 35,
+    "category": "Attendance",
+    "question": "Can parents view attendance?",
+    "answer": "Where parent access is enabled, guardians can view attendance through the portal using authorized credentials."
+  },
+  {
+    "id": 36,
+    "category": "Attendance",
+    "question": "What is the attendance policy for online classes?",
+    "answer": "Online attendance is recorded through the designated learning platform and follows the same academic policy."
+  },
+  {
+    "id": 37,
+    "category": "Examinations",
+    "question": "When are semester examinations held?",
+    "answer": "The examination schedule is published in the academic calendar and on the examination cell noticeboard."
+  },
+  {
+    "id": 38,
+    "category": "Examinations",
+    "question": "How do I fill the examination form?",
+    "answer": "Log in to the student portal during the form window, verify subjects, pay any required fee, and submit."
+  },
+  {
+    "id": 39,
+    "category": "Examinations",
+    "question": "How can I download my admit card?",
+    "answer": "Once released, download your admit card from the examinations section of the student portal."
+  },
+  {
+    "id": 40,
+    "category": "Examinations",
+    "question": "What should I bring to the examination hall?",
+    "answer": "Bring your admit card, college ID, and permitted stationery. Follow all instructions printed on the admit card."
+  },
+  {
+    "id": 41,
+    "category": "Examinations",
+    "question": "When will results be declared?",
+    "answer": "Result declaration dates are announced by the examination cell after evaluation and approval are completed."
+  },
+  {
+    "id": 42,
+    "category": "Examinations",
+    "question": "How can I apply for revaluation?",
+    "answer": "Submit the revaluation application and fee through the portal within the notified result review period."
+  },
+  {
+    "id": 43,
+    "category": "Examinations",
+    "question": "What is the passing criteria?",
+    "answer": "Passing criteria are defined in programme regulations and may include separate minimum marks for theory and practical components."
+  },
+  {
+    "id": 44,
+    "category": "Examinations",
+    "question": "Can I see my answer sheet?",
+    "answer": "Answer script viewing, if offered, follows examination cell rules and must be requested within the published timeline."
+  },
+  {
+    "id": 45,
+    "category": "Examinations",
+    "question": "What happens if I miss an exam?",
+    "answer": "Notify the examination cell immediately. Eligibility for a supplementary or special exam depends on policy and documentation."
+  },
+  {
+    "id": 46,
+    "category": "Examinations",
+    "question": "How do I apply for a supplementary exam?",
+    "answer": "Use the examination portal during the supplementary registration window and complete the required payment."
+  },
+  {
+    "id": 47,
+    "category": "Examinations",
+    "question": "Are calculators allowed in exams?",
+    "answer": "Calculators are allowed only when expressly permitted for that subject; check the exam instructions."
+  },
+  {
+    "id": 48,
+    "category": "Examinations",
+    "question": "Where can I find the exam timetable?",
+    "answer": "The official timetable is available in the student portal, examination cell notices, and department noticeboards."
+  },
+  {
+    "id": 49,
+    "category": "Timetable",
+    "question": "Where can I view my class timetable?",
+    "answer": "Your current class timetable is available in the student portal and on your department noticeboard."
+  },
+  {
+    "id": 50,
+    "category": "Timetable",
+    "question": "How often is the timetable updated?",
+    "answer": "Updates are made whenever needed; always check the latest version on the portal before attending class."
+  },
+  {
+    "id": 51,
+    "category": "Timetable",
+    "question": "What should I do if two classes overlap?",
+    "answer": "Inform your class coordinator or department office immediately so they can verify the timetable."
+  },
+  {
+    "id": 52,
+    "category": "Timetable",
+    "question": "Are timetable changes notified?",
+    "answer": "Important changes are communicated through the portal, department notices, or official class channels."
+  },
+  {
+    "id": 53,
+    "category": "Timetable",
+    "question": "How do I find my classroom?",
+    "answer": "Check the room code beside each timetable entry and use campus signage or the department office for directions."
+  },
+  {
+    "id": 54,
+    "category": "Timetable",
+    "question": "Does the timetable include laboratory sessions?",
+    "answer": "Yes. Laboratory and tutorial sessions are normally included with their room or lab number."
+  },
+  {
+    "id": 55,
+    "category": "Timetable",
+    "question": "How can I find faculty consultation hours?",
+    "answer": "Faculty consultation hours are listed by departments or can be confirmed directly with the faculty member."
+  },
+  {
+    "id": 56,
+    "category": "Timetable",
+    "question": "Is there a timetable for weekend classes?",
+    "answer": "Weekend classes, if scheduled, appear in the latest timetable and official department notifications."
+  },
+  {
+    "id": 57,
+    "category": "Timetable",
+    "question": "Can I download the timetable as PDF?",
+    "answer": "Use the download option on the portal if available, or request the published PDF from your department."
+  },
+  {
+    "id": 58,
+    "category": "Timetable",
+    "question": "What is the timetable for first-year students?",
+    "answer": "First-year timetables are posted in the respective department section of the portal before classes commence."
+  },
+  {
+    "id": 59,
+    "category": "Timetable",
+    "question": "Why is my timetable not visible?",
+    "answer": "Confirm your enrollment and semester selection, then contact the department office if it still does not appear."
+  },
+  {
+    "id": 60,
+    "category": "Timetable",
+    "question": "Where can I find the academic calendar?",
+    "answer": "The academic calendar is published on the college website and student portal."
+  },
+  {
+    "id": 61,
+    "category": "Library",
+    "question": "What are the library working hours?",
+    "answer": "Library working hours are displayed at the library entrance and on the library page of the student portal."
+  },
+  {
+    "id": 62,
+    "category": "Library",
+    "question": "How do I borrow a book from the library?",
+    "answer": "Present your college ID at the circulation desk and ensure that the book is eligible for issue."
+  },
+  {
+    "id": 63,
+    "category": "Library",
+    "question": "How many books can I borrow?",
+    "answer": "The borrowing limit depends on your student category and is listed in the library rules."
+  },
+  {
+    "id": 64,
+    "category": "Library",
+    "question": "How can I renew a library book?",
+    "answer": "Renew eligible books online through the library account or at the circulation desk before the due date."
+  },
+  {
+    "id": 65,
+    "category": "Library",
+    "question": "What is the fine for late book return?",
+    "answer": "Late-return fines are calculated according to library policy and are shown by the circulation desk."
+  },
+  {
+    "id": 66,
+    "category": "Library",
+    "question": "Can I access e-books from home?",
+    "answer": "Yes, students can access subscribed digital resources using their institutional login where remote access is enabled."
+  },
+  {
+    "id": 67,
+    "category": "Library",
+    "question": "How do I reserve a book?",
+    "answer": "Search the library catalogue and place a reservation if the book is currently issued to another user."
+  },
+  {
+    "id": 68,
+    "category": "Library",
+    "question": "What should I do if I lose a library book?",
+    "answer": "Report the loss immediately to the library. You may need to replace the book and pay applicable processing charges."
+  },
+  {
+    "id": 69,
+    "category": "Library",
+    "question": "Is there a reading room in the library?",
+    "answer": "Yes, the library provides designated quiet reading spaces subject to its seating rules."
+  },
+  {
+    "id": 70,
+    "category": "Library",
+    "question": "Can alumni use the library?",
+    "answer": "Alumni access depends on library policy; contact the librarian for current visitor and membership rules."
+  },
+  {
+    "id": 71,
+    "category": "Library",
+    "question": "How can I access research journals?",
+    "answer": "Use the library's e-resources portal on campus or through authorized remote access."
+  },
+  {
+    "id": 72,
+    "category": "Library",
+    "question": "Is printing available in the library?",
+    "answer": "Printing or photocopying services may be available in the library during posted service hours."
+  },
+  {
+    "id": 73,
+    "category": "Hostel",
+    "question": "How do I apply for hostel accommodation?",
+    "answer": "Submit the hostel application through the designated portal or hostel office after admission confirmation."
+  },
+  {
+    "id": 74,
+    "category": "Hostel",
+    "question": "What are the hostel fees?",
+    "answer": "Hostel fees vary by room type and facilities; see the current hostel fee notice for exact amounts."
+  },
+  {
+    "id": 75,
+    "category": "Hostel",
+    "question": "Are hostel rooms shared?",
+    "answer": "Most hostel rooms are shared, although availability and room type depend on the hostel allocation policy."
+  },
+  {
+    "id": 76,
+    "category": "Hostel",
+    "question": "What items should I bring to the hostel?",
+    "answer": "Bring personal bedding, toiletries, essential clothing, and any items listed in the hostel joining instructions."
+  },
+  {
+    "id": 77,
+    "category": "Hostel",
+    "question": "What are the hostel entry timings?",
+    "answer": "Entry timings and curfew rules are listed in the hostel handbook and must be followed by all residents."
+  },
+  {
+    "id": 78,
+    "category": "Hostel",
+    "question": "Is Wi-Fi available in the hostel?",
+    "answer": "Hostel Wi-Fi is provided where available, subject to acceptable-use rules and network maintenance."
+  },
+  {
+    "id": 79,
+    "category": "Hostel",
+    "question": "How can I report a maintenance issue?",
+    "answer": "Submit a complaint through the hostel office or maintenance portal with your room number and issue details."
+  },
+  {
+    "id": 80,
+    "category": "Hostel",
+    "question": "Can I change my hostel room?",
+    "answer": "Room changes are considered for valid reasons, subject to availability and warden approval."
+  },
+  {
+    "id": 81,
+    "category": "Hostel",
+    "question": "Are visitors allowed in the hostel?",
+    "answer": "Visitors are allowed only in designated areas during approved visiting hours and with required identification."
+  },
+  {
+    "id": 82,
+    "category": "Hostel",
+    "question": "Is mess food included in hostel fees?",
+    "answer": "Mess arrangements and charges are specified separately in the hostel fee notice and resident handbook."
+  },
+  {
+    "id": 83,
+    "category": "Hostel",
+    "question": "What happens if I violate hostel rules?",
+    "answer": "Violations may result in warnings or disciplinary action under the hostel code of conduct."
+  },
+  {
+    "id": 84,
+    "category": "Hostel",
+    "question": "How do I vacate the hostel?",
+    "answer": "Complete the hostel clearance process, settle dues, return issued items, and obtain warden approval."
+  },
+  {
+    "id": 85,
+    "category": "Placement",
+    "question": "When does placement registration start?",
+    "answer": "Placement registration dates are announced by the training and placement cell through official notices."
+  },
+  {
+    "id": 86,
+    "category": "Placement",
+    "question": "How do I register for campus placements?",
+    "answer": "Complete your profile and upload the required documents on the placement portal before the deadline."
+  },
+  {
+    "id": 87,
+    "category": "Placement",
+    "question": "What documents are needed for placement?",
+    "answer": "Typically you need a resume, academic records, ID, and any documents requested by the recruiting company."
+  },
+  {
+    "id": 88,
+    "category": "Placement",
+    "question": "Can students with backlogs attend placements?",
+    "answer": "Eligibility for students with backlogs is decided by each company and communicated with the job announcement."
+  },
+  {
+    "id": 89,
+    "category": "Placement",
+    "question": "How can I prepare for placement interviews?",
+    "answer": "Attend placement training, practise aptitude and technical questions, refine your resume, and take mock interviews."
+  },
+  {
+    "id": 90,
+    "category": "Placement",
+    "question": "Where can I upload my resume?",
+    "answer": "Upload and update your resume in the placement portal profile section."
+  },
+  {
+    "id": 91,
+    "category": "Placement",
+    "question": "How do I know about company drives?",
+    "answer": "Company drive information is shared through the placement portal, email, and official placement notices."
+  },
+  {
+    "id": 92,
+    "category": "Placement",
+    "question": "Can I apply to multiple companies?",
+    "answer": "Yes, subject to placement cell rules and any offer or eligibility conditions that apply."
+  },
+  {
+    "id": 93,
+    "category": "Placement",
+    "question": "What is the placement eligibility criteria?",
+    "answer": "Each company sets criteria such as branch, grades, graduation year, and backlog status."
+  },
+  {
+    "id": 94,
+    "category": "Placement",
+    "question": "How do I get an internship through college?",
+    "answer": "Register with the placement cell and apply to internship opportunities posted on the placement portal."
+  },
+  {
+    "id": 95,
+    "category": "Placement",
+    "question": "Who should I contact for placement queries?",
+    "answer": "Contact the training and placement cell using the official contact details on the portal."
+  },
+  {
+    "id": 96,
+    "category": "Placement",
+    "question": "Are mock interviews conducted?",
+    "answer": "Yes, the placement cell may conduct mock interviews and training sessions before recruitment drives."
+  },
+  {
+    "id": 97,
+    "category": "Scholarships",
+    "question": "What scholarships are available for students?",
+    "answer": "Available scholarships include government, merit, need-based, and institution-supported schemes, subject to eligibility."
+  },
+  {
+    "id": 98,
+    "category": "Scholarships",
+    "question": "How do I apply for a scholarship?",
+    "answer": "Apply through the notified scholarship portal and submit all required documents before the deadline."
+  },
+  {
+    "id": 99,
+    "category": "Scholarships",
+    "question": "What documents are needed for scholarship?",
+    "answer": "Requirements commonly include marksheets, income certificate, bank details, ID, and category certificates where applicable."
+  },
+  {
+    "id": 100,
+    "category": "Scholarships",
+    "question": "What is the scholarship application deadline?",
+    "answer": "Deadlines are announced for each scheme on official notices and the relevant scholarship portal."
+  },
+  {
+    "id": 101,
+    "category": "Scholarships",
+    "question": "Can I apply for more than one scholarship?",
+    "answer": "You may apply where scheme rules allow, but verify whether receiving multiple awards is permitted."
+  },
+  {
+    "id": 102,
+    "category": "Scholarships",
+    "question": "How can I check scholarship status?",
+    "answer": "Log in to the scholarship portal with your application credentials to track verification and payment status."
+  },
+  {
+    "id": 103,
+    "category": "Scholarships",
+    "question": "What is a merit scholarship?",
+    "answer": "A merit scholarship is financial support awarded based on academic performance or other stated achievement criteria."
+  },
+  {
+    "id": 104,
+    "category": "Scholarships",
+    "question": "Is an income certificate required?",
+    "answer": "An income certificate is required for many need-based schemes; check the specific scholarship guidelines."
+  },
+  {
+    "id": 105,
+    "category": "Scholarships",
+    "question": "When is scholarship money credited?",
+    "answer": "Disbursement occurs after verification and approval and follows the schedule of the funding authority."
+  },
+  {
+    "id": 106,
+    "category": "Scholarships",
+    "question": "Can I renew my scholarship?",
+    "answer": "Renewal is possible when you continue to meet the scheme's academic and documentation requirements."
+  },
+  {
+    "id": 107,
+    "category": "Scholarships",
+    "question": "Who verifies scholarship applications?",
+    "answer": "Applications are verified by designated college officials and, for some schemes, by government departments."
+  },
+  {
+    "id": 108,
+    "category": "Scholarships",
+    "question": "What should I do if my scholarship is rejected?",
+    "answer": "Read the rejection reason, correct eligible issues if allowed, and contact the scholarship cell for guidance."
+  },
+  {
+    "id": 109,
+    "category": "Student Portal",
+    "question": "How do I log in to the student portal?",
+    "answer": "Use your registered student ID and password on the official student portal login page."
+  },
+  {
+    "id": 110,
+    "category": "Student Portal",
+    "question": "I forgot my student portal password. What should I do?",
+    "answer": "Select Forgot Password, verify your registered email or mobile number, and set a new secure password."
+  },
+  {
+    "id": 111,
+    "category": "Student Portal",
+    "question": "How do I update my profile in the portal?",
+    "answer": "Open Profile in the portal, edit the permitted fields, and save changes. Contact administration for locked fields."
+  },
+  {
+    "id": 112,
+    "category": "Student Portal",
+    "question": "How can I download my marksheet from the portal?",
+    "answer": "Navigate to Results or Documents, select the relevant semester, and use the download option."
+  },
+  {
+    "id": 113,
+    "category": "Student Portal",
+    "question": "Why is the student portal not working?",
+    "answer": "Check your internet connection and try again later. If the issue continues, contact the IT helpdesk."
+  },
+  {
+    "id": 114,
+    "category": "Student Portal",
+    "question": "Can I update my phone number in the portal?",
+    "answer": "Use the profile update option if enabled; otherwise submit a request to the administration office."
+  },
+  {
+    "id": 115,
+    "category": "Student Portal",
+    "question": "How do I view notices on the portal?",
+    "answer": "Open the Notices or Announcements section after logging in to see the latest official updates."
+  },
+  {
+    "id": 116,
+    "category": "Student Portal",
+    "question": "Where can I find my student ID?",
+    "answer": "Your student ID appears on your identity card, admission documents, and portal profile."
+  },
+  {
+    "id": 117,
+    "category": "Student Portal",
+    "question": "How do I access course materials?",
+    "answer": "Open the Learning or Course Materials section and choose the course and semester."
+  },
+  {
+    "id": 118,
+    "category": "Student Portal",
+    "question": "Can parents access the student portal?",
+    "answer": "Parent access is available only where the institution has enabled a separate authorized parent portal."
+  },
+  {
+    "id": 119,
+    "category": "Student Portal",
+    "question": "How do I raise a support ticket?",
+    "answer": "Use the Helpdesk or Support section in the portal, describe the issue clearly, and note the ticket number."
+  },
+  {
+    "id": 120,
+    "category": "Student Portal",
+    "question": "Is the student portal available on mobile?",
+    "answer": "The portal works in modern mobile browsers; use the official app only if the college provides one."
+  },
+  {
+    "id": 121,
+    "category": "Transport",
+    "question": "How do I apply for college transport?",
+    "answer": "Submit a transport application through the transport office or portal and select an available route and stop."
+  },
+  {
+    "id": 122,
+    "category": "Transport",
+    "question": "What are the bus routes and timings?",
+    "answer": "Current routes, stops, and timings are published by the transport office and on the student portal."
+  },
+  {
+    "id": 123,
+    "category": "Transport",
+    "question": "How can I pay transport fees?",
+    "answer": "Pay transport fees using the student portal or accounts process specified in the transport fee notice."
+  },
+  {
+    "id": 124,
+    "category": "Transport",
+    "question": "Can I change my bus stop?",
+    "answer": "Submit a stop-change request to the transport office; approval depends on route feasibility and seat availability."
+  },
+  {
+    "id": 125,
+    "category": "Transport",
+    "question": "What should I do if I miss the bus?",
+    "answer": "Arrange your own safe travel for that day and inform the transport office if there is a recurring route issue."
+  },
+  {
+    "id": 126,
+    "category": "Transport",
+    "question": "Is bus tracking available?",
+    "answer": "Bus tracking may be available through the designated transport app or portal where the service is enabled."
+  },
+  {
+    "id": 127,
+    "category": "Transport",
+    "question": "How do I report a bus-related complaint?",
+    "answer": "Report the route, bus number, date, and issue to the transport office through official channels."
+  },
+  {
+    "id": 128,
+    "category": "Transport",
+    "question": "Are transport fees refundable?",
+    "answer": "Refunds are governed by the transport policy and may depend on timing and route allocation status."
+  },
+  {
+    "id": 129,
+    "category": "Transport",
+    "question": "Can day scholars use the college bus occasionally?",
+    "answer": "Occasional use depends on available seats and transport office approval; contact them before travelling."
+  },
+  {
+    "id": 130,
+    "category": "Transport",
+    "question": "What are the bus safety rules?",
+    "answer": "Wear your ID, follow staff instructions, remain seated when required, and avoid unsafe behaviour during travel."
+  },
+  {
+    "id": 131,
+    "category": "Transport",
+    "question": "Where is the transport office located?",
+    "answer": "The transport office location and contact information are available in the campus directory."
+  },
+  {
+    "id": 132,
+    "category": "Transport",
+    "question": "Is transport available during exams?",
+    "answer": "Exam-day transport arrangements are announced by the transport office before examinations."
+  },
+  {
+    "id": 133,
+    "category": "General Queries",
+    "question": "What are the college working hours?",
+    "answer": "College and administrative office hours are listed in the campus directory and may vary during vacations."
+  },
+  {
+    "id": 134,
+    "category": "General Queries",
+    "question": "Where can I find the campus map?",
+    "answer": "The campus map is available at main entrances, on noticeboards, and often in the student portal."
+  },
+  {
+    "id": 135,
+    "category": "General Queries",
+    "question": "How do I get a bonafide certificate?",
+    "answer": "Apply through the student portal or administration office and collect it after the stated processing time."
+  },
+  {
+    "id": 136,
+    "category": "General Queries",
+    "question": "How can I get a duplicate ID card?",
+    "answer": "Report the loss and apply to the administration office with identification and any required replacement fee."
+  },
+  {
+    "id": 137,
+    "category": "General Queries",
+    "question": "What is the anti-ragging policy?",
+    "answer": "The college maintains a zero-tolerance anti-ragging policy. Report concerns immediately to the anti-ragging committee."
+  },
+  {
+    "id": 138,
+    "category": "General Queries",
+    "question": "How do I contact the IT helpdesk?",
+    "answer": "Use the Helpdesk portal or the official IT support contact details listed on the student portal."
+  },
+  {
+    "id": 139,
+    "category": "General Queries",
+    "question": "Are there student clubs and societies?",
+    "answer": "Yes, students can join academic, cultural, sports, and technical clubs through official announcements."
+  },
+  {
+    "id": 140,
+    "category": "General Queries",
+    "question": "How do I register a grievance?",
+    "answer": "Submit your grievance through the official grievance cell or portal with clear details and supporting evidence."
+  },
+  {
+    "id": 141,
+    "category": "General Queries",
+    "question": "Where is the medical room?",
+    "answer": "The medical room location and emergency contact details are posted in the campus directory."
+  },
+  {
+    "id": 142,
+    "category": "General Queries",
+    "question": "How do I book an auditorium or classroom?",
+    "answer": "Submit a booking request through your department or the facilities office well before the event."
+  },
+  {
+    "id": 143,
+    "category": "General Queries",
+    "question": "Is there a lost and found office?",
+    "answer": "Lost-and-found items can be reported to campus security or the administration office."
+  },
+  {
+    "id": 144,
+    "category": "General Queries",
+    "question": "How do I obtain a transfer certificate?",
+    "answer": "Apply to the administration office after completing academic and financial clearance requirements."
+  },
+  {
+    "id": 145,
+    "category": "General Queries",
+    "question": "What is the college emergency contact number?",
+    "answer": "Emergency contact information is displayed on campus noticeboards and in the student portal directory."
+  },
+  {
+    "id": 146,
+    "category": "General Queries",
+    "question": "How can I participate in sports events?",
+    "answer": "Watch official sports notices, register with the physical education department, and attend required trials or practice sessions."
+  },
+  {
+    "id": 147,
+    "category": "General Queries",
+    "question": "Does the campus have a cafeteria?",
+    "answer": "The campus cafeteria details, menus, and service hours are available at the dining area and campus directory."
+  },
+  {
+    "id": 148,
+    "category": "General Queries",
+    "question": "How do I get a character certificate?",
+    "answer": "Submit a certificate request through the administration office after meeting the required clearance conditions."
+  },
+  {
+    "id": 149,
+    "category": "General Queries",
+    "question": "Can I park my vehicle on campus?",
+    "answer": "Parking is subject to campus rules, designated areas, and any required vehicle registration or parking pass."
+  },
+  {
+    "id": 150,
+    "category": "General Queries",
+    "question": "How do I report a safety concern?",
+    "answer": "Report urgent safety concerns to campus security immediately or use the official grievance and emergency contact channels."
+  }
+]
